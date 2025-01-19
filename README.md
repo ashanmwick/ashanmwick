@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I am IT undergraduate of University Of Moratuwa<br> 🛠️I develop open source software <br>🕷️ Visit my [🕸️](https://matheesha.netlify.app/) .<br>📡 I am an Digital Electronics enthusiast.<br>
+💻I am IT undergraduate of University Of Moratuwa<br> 🛠️I develop open source software <br>🕷️ Visit my [🕸️](https://matheesha.netlify.app/) .<br>📡 I am an AI & Digital Electronics enthusiast.<br>
 
 
 # 💻 Tech Stack:
